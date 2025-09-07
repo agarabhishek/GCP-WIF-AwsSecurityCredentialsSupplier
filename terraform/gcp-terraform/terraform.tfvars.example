@@ -1,2 +1,2 @@
-project_name     = "your-gcp-project-id"
+project_name     = "your-gcp-project-name"
 aws_account_id = "your-aws-account-id"
