@@ -1,6 +1,6 @@
 # google-auth-python-AwsSecurityCredentialsSupplier
 
-<img src=gcp_wif_aws_ecs_cover.jpg alt="GCP WIF AWS ECS Cover Image" width="800"/>
+<img src=https://agarabhishek.com/images/gcp_wif_aws_ecs_cover_large.jpg alt="GCP WIF AWS ECS Cover Image">
 
 Implements a Python Custom AWS Security Credential Supplier for performing GCP Workload Identity Federation (WIF) via AWS ECS tasks
 
@@ -83,6 +83,10 @@ custom_aws_credentials_supplier [INFO ]  AWS Credentials obtained successfully
 gcp_wif_test [INFO ]  Response of GCP Projects List API call:
 {'projects': [{'projectNumber': 'XXXXXXXX', 'projectId': 'XXXXXX', 'name': 'XXXXXXXXXX'}, 'createTime': 'XXXXXXX'}]}
 ```
+
+### Demo
+
+[![Demo Video](https://img.youtube.com/vi/UaTXLLufaNQ/0.jpg)](https://www.youtube.com/watch?v=UaTXLLufaNQ)
 
 ## Manual Testing
 
